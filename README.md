@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <div align="left">
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-#181717?style=flat&logo=Git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-#181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
