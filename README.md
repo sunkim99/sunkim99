@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 ##### ⚡ Tech Stack ⚡
 ###### Platforms & Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C%23&logoColor=white" />
-<img src="https://img.shields.io/badge/MS SQL-CC29270?style=flat&logo=MS SQL&logoColor=white" />
+<div align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C%23&logoColor=white" />
+    <img src="https://img.shields.io/badge/MS SQL-CC29270?style=flat&logo=MS SQL&logoColor=white" />
+</div>
 
 
 
