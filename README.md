@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 -->
 
 #### 🌱 I’m currently learning AI Deep Learning.
-### Skills
-#### Platforms & Languages
+
+##### ⚡ Tech Stack ⚡
+###### Platforms & Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C%23&logoColor=white" />
+<img src="https://img.shields.io/badge/MS SQL-CC29270?style=flat&logo=MS SQL&logoColor=white" />
+
 
 
 <!--
@@ -26,9 +30,10 @@ Here are some ideas to get you started:
 
 
 -->
-#### Tools
+###### Tools
 <div align="left">
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-#181717?style=flat&logo=GitHub&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
