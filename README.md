@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 #### 🌱 I’m currently learning AI Deep Learning.
-
+---
 ##### ⚡ Tech Stack ⚡
 ###### Platforms & Languages
 <div align="left">
@@ -39,3 +39,20 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+
+<!-- 
+###### SNS 🌟
+<div align="left">
+    <a href="https://www.linkedin.com/in/sunwoo-kim-691a5a273/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
+    </a>
+    <a href="https://velog.io/@sun_" target="_blank">
+        <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+    </a>
+</div>
+-->
+
+</br>
+
+
+![SUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunkim99&show_icons=true&theme=calm&show_icons=true)
