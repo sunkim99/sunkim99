@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 #### 🌱 I’m currently learning AI Deep Learning.
 -->
+<!--
 ---
 ##### ⚡ Tech Stack ⚡
 ###### Platforms & Languages
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MS SQL-CC29270?style=flat&logo=MS SQL&logoColor=white" />
 </div>
 
-
+-->
 
 <!--
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
 
 
 -->
+<!--
 ###### Tools
 <div align="left">
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-
+-->
 <!-- 
 ###### SNS 🌟
 <div align="left">
@@ -53,8 +55,9 @@ Here are some ideas to get you started:
     </a>
 </div>
 -->
-
+<!--
 </br>
 
 
 ![SUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunkim99&show_icons=true&theme=calm&show_icons=true)
+-->
